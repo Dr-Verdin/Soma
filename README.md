@@ -1,4 +1,4 @@
-# Soma
+# Somador
 
 ## Descrição
 
